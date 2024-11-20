@@ -49,9 +49,6 @@ Our model achieves the following performance on :
 ### [Image Segmentation on ACDC Dataset]
 
 >📋  Include a table of results from your paper, and link back to the leaderboard for clarity and context. If your main result is a figure, include that figure and link to the command or notebook to reproduce it.
-### [Image Segmentation on Synapse Dataset]
-
->📋  Include a table of results from your paper, and link back to the leaderboard for clarity and context. If your main result is a figure, include that figure and link to the command or notebook to reproduce it.
 ![Uploading ACDC_results.png…]()
 
 
