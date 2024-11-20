@@ -1,5 +1,5 @@
 # AMDA-Net
->📋  The title of AMDA-Net is "AMDA-Net: Adaptive Multi-scale Deformable Attention U-Net for Enhanced Medical Image Segmentation".This is the open source code about this article, and you can reproduce it by following the instructions below.However, this article has not yet been published, and the code will be made public after publication.
+>📋  The title of AMDA-Net is "AMDA-Net: Adaptive Multi-scale Deformable Attention U-Net for Enhanced Medical Image Segmentation".This is the open source code about this article, and you can reproduce it by following the instructions below.
 ## Requirements
 
 To install requirements:
