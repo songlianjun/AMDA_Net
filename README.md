@@ -47,7 +47,9 @@ Our model achieves the following performance on :
 | ------------------ |---------------- | -------------- |
 | My awesome model   |     85%         |      95%       |
 
->📋  Include a table of results from your paper, and link back to the leaderboard for clarity and context. If your main result is a figure, include that figure and link to the command or notebook to reproduce it. 
+>📋  Include a table of results from your paper, and link back to the leaderboard for clarity and context. If your main result is a figure, include that figure and link to the command or notebook to reproduce it.
+>![Synapse_results](https://github.com/user-attachments/assets/ae9bfef8-65ac-4e32-911b-385bce2b5809)
+
 
 
 ## Contributing
